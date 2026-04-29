@@ -33,6 +33,9 @@ Systematic analysis of capabilities accumulated over 216 months (157,680 hours) 
 | 📜 ISO 27001 Alignment | 🗝️ Azure Key Vault | 📦 SBOM & Supply Chain Sec |
 | 🤖 AI / ML Security | ⚙️ DevSecOps Integration | 👁️ Azure Sentinel Deployments |
 
+
+<img width="1211" height="944" alt="image" src="https://github.com/user-attachments/assets/6ff287ea-6fa2-437e-b69a-fd35b1f57b31" />
+
 ---
 
 ## 📊 Operational Workflows & Repositories
