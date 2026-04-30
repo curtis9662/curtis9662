@@ -68,7 +68,7 @@ I maintain active monitoring protocols against the evolving threat landscape, ut
 
 ---
 <div align="center">
-  <i>Created by Curtis Jones (Msc, CISSP, OSCP) · © 2025-2026<br>No Vibe Coding ALLOWED 😎</i>
+  <i>Created by Curtis Jones (Msc, CISSP, OSCP) · © 2025-2026<br>No Minimal < 2 Lines Vibe Coding ALLOWED 😎</i>
 </div>
 <!--
 **curtis9662/curtis9662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
