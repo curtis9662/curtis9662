@@ -5,7 +5,8 @@
 ### Sr. Security Architect :: IAM/PAM Strategist :: DevSecOps :: AI Defense
 
 [![Resume](https://img.shields.io/badge/Resume-View_Document-0052cc?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1wgQkkvsqBtE1Jybe9wo9-q5b-pr_cPofQdq8egdR2Qg/edit?usp=sharing)
-[![Contact](https://img.shields.io/badge/Contact-help@blactec.biz-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:help@blactec.biz) ←| My Sandbox for WApp Testing |
+--------
+[![Contact](https://img.shields.io/badge/Contact-help@blactec.biz-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:help@blactec.biz) 
 --------
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Version](https://img.shields.io/badge/version-2.0.0-cyan.svg)](https://curtis9662.github.io/)
