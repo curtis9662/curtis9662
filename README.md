@@ -16,9 +16,22 @@
 
 ## 👨‍💻 Architectural Profile
 
-**18+ Years of Cryptographic and Structural High-Level Execution**
-I operate at the intersection of enterprise cybersecurity, Identity Access Management (IAM), and Cloud Governance. My computational and architectural focus is dedicated to engineering **Secure Hybrid-Cloud Architectures** (Azure/AWS), establishing FedRAMP compliance, and executing mathematically rigorous **Zero Trust** frameworks. I am currently advancing threat remediation methodologies via AI/ML security integrations.
+# 🛡️ Senior Security Architect & Cyber Security Engineer
+**Cryptographic Rigor | Purple Team Paradigm | Structural High-Level Execution**
 
+---
+
+### 👨‍💻 Executive Abstract
+Operating at the critical intersection of enterprise cybersecurity, Identity and Access Management (IAM), and Cloud Governance, I bring over **19 years** of computationally validated experience in cryptographic and structural high-level execution. My architectural paradigm is built upon the synthesis of offensive threat modeling (Red) and defensive resilience (Blue), ensuring holistic structural integrity.
+
+### 🏗️ Core Computational & Architectural Focus
+* **Secure Hybrid-Cloud Engineering:** Architecting and deploying hardened, scalable environments across distributed Azure and AWS infrastructures.
+* **Compliance & Governance Integration:** Establishing and maintaining rigorous adherence to FedRAMP controls and enterprise regulatory standards through continuous computational auditing.
+* **Zero Trust Architecture:** Executing mathematically rigorous, identity-centric Zero Trust frameworks to systematically neutralize lateral movement and privilege escalation vectors.
+* **Next-Generation Threat Remediation:** Advancing automated incident response and anomaly detection methodologies via applied Artificial Intelligence and Machine Learning (AI/ML) security integrations.
+
+---
+*Advancing the science of cybersecurity through computational validation and resilient systems design.*
 ---
 
 ## 🤹‍♂️ Core Competencies
